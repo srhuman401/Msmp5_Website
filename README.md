@@ -1,0 +1,1 @@
+# Simple website for private minecraft server
